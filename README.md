@@ -1,6 +1,6 @@
 ## Hi there 👋
+<img src="https://github.com/mart1-cast3ll/mart1-cast3ll/blob/main/img/name.png" alt="Image showing Marti Castell name">
 
-<!--
 **mart1-cast3ll/mart1-cast3ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
